@@ -1,2 +1,4 @@
 # HIGH_GAIN_OTA_DESIGN
-In this project, we have tried to understand the significance and working of the Operational Transconductance Amplifier, commonly known as OTA. OTA is used for various applications, some of them being, Data converters, Active filters, frequency oscillators, and so on. In all these applications the gain of the OTA is a major factor for their performance. Here we specifically focus on the specifications required for that of a data convertor. For example , the delta sigma ADC requires a switch based integrator which needs a high gain in order to get a good resolution. We explore different topologies in order to achieve a gain as high as 100dB.
+An Operational Transconductance Amplifier is to be implemented which typically provides a very high gain. We have discussed different OTA topologies from simple differential amplifiers to Folded cascode theoretically, along with simulation results. All simulations are done in LTSPICE. Differences between all these topologies are observed in terms of gain, swing limits and other specific parameters. 
+
+Go through PDF file for further details.
